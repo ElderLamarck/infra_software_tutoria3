@@ -1,4 +1,4 @@
-# Infra_software_3
+# Infra_software3
 Atividade para obtenção de nota parcial da cadeira "Infraestrutura de Software"
 
 ## Como clonar o repositório:
